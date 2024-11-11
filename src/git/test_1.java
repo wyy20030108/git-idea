@@ -10,5 +10,6 @@ public class test_1 {
         System.out.println("第三次提交");
         System.out.println("第四次提交");
         System.out.println("hot-fit 提交");
+        System.out.println("master");
     }
 }
